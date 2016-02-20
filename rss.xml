@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mensaje del Cielo]]></title>
+        <description><![CDATA[Mensaje del Cielo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Feb 2016 01:40:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[¡El momento ha llegado, el cielo invade la tierra!]]></title>
+            <description><![CDATA[<article><h1>¡El momento ha llegado, el cielo invade la tierra!</h1><p>La respuesta que el mundo necesita ha llegado, esta generación será testigo de lo que Dios ha soñado desde antes de la fundación del mundo, un lugar lleno de amor y esperanza, el mismo cielo manifestado en la tierra</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cc9f454-6848-492e-8a4c-1b4c069c8143.jpg"></article>]]></description>
+            <link>undefinedel-cielo-invade-la-tierra/index.html</link>
+            <guid isPermaLink="false">956d08c9-464d-4850-b83e-ae6736e0dc02</guid>
+            <pubDate>Sat, 20 Feb 2016 01:40:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
